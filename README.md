@@ -1,4 +1,4 @@
-![BRACU Voting Machine Banner](file:///C:/Users/ahsanauddry/.gemini/antigravity/brain/7a546faf-46ef-4c74-a095-3ceb34b6202f/voting_machine_banner_1767324760400.png)
+![BRACU Voting Machine Banner](./voting_machine.png)
 
 # 🗳️ BRACU Voting Machine
 
@@ -72,3 +72,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <p align="center">
   Developed with ❤️ for CSE341 - Microprocessors at BRAC University
 </p>
+
